@@ -1,2 +1,1 @@
-# cars_forecasting
-Car prices forecasting
+# Car prices forecasting
